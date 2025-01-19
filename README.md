@@ -11,16 +11,17 @@ Assign a string of your favorite movie character and the movie they are they are
 
 Next, one by one, use each of the methods and print the result. NOTE: You may need to use a substring or character to display the method use correctly.
 
-capitalize
-find
-index
-isalnum
-isalpha
-isdigit
-islower
-isupper
-isspace
-startswith
-Take a screen shot of 2 at a time and submit 5 screenshots.
+* capitalize
+* find
+* index
+* isalnum
+* isalpha
+* isdigit
+* islower
+* isupper
+* isspace
+* startswith
+
+
 This is worth 10 points
 
